@@ -1,0 +1,20 @@
+{
+  "name": "sendmessage",
+  "version": "1.0.0",
+  "description": "Sending message to discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^4.2.0",
+    "chalk": "^5.0.0",
+    "discord-input": "^1.1.3",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^13.6.0",
+    "message-button": "^1.2.4"
+  }
+}
