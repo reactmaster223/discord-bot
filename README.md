@@ -1,4 +1,4 @@
-# discord-bot
+# How to run the project?
 1. run the command "npm install" in ./
 2. run the command "npm install" in sendmessage folder
 3. run the command "npm install" in server folder
